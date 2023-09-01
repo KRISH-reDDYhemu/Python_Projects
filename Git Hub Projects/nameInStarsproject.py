@@ -1,4 +1,5 @@
 def starletter(i):
+    #input should me 5 always
     N = 5
     print("")
     #letter A
