@@ -17,6 +17,8 @@ def starletter(i):
                 print(left_spaces+"* "+hollow+"* ")
         print("")
 
+
+
 #letter B
     def letterB():
         for i in range(1,N+1):
